@@ -43,11 +43,11 @@ $skill-installer install https://github.com/kellanxu/creation-intent-gate/tree/m
 
 如果是一天内可完成、单人、可逆且没有外部承诺的小创造物，Skill 会使用轻量门，避免把思考本身变成拖延。
 
-## 方法来源与工程化边界
+## 方法结构
 
-Mission / Vision / Values、碰撞现实和端到端回路的核心方法，来自“超体”课程第 9–11 课。本 Skill 在此基础上增加了运行深度分级、Build Gate、证据边界、可视化交付、现实碰撞卡和文件固化规则。
+这个 Skill 把 Mission / Vision / Values、现实碰撞和端到端回路组合成一套自包含的创造流程，并增加运行深度分级、Build Gate、证据边界、可视化交付、现实碰撞卡和文件固化规则。
 
-课程方法与本 Skill 的工程化扩展在 [`references/course-method.md`](skills/creation-intent-gate/references/course-method.md) 中分别标注，避免把后续实现误称为课程原始模板。
+完整的方法解释见 [`references/method.md`](skills/creation-intent-gate/references/method.md)。
 
 ## License
 

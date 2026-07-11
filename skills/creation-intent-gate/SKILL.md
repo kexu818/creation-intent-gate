@@ -1,6 +1,6 @@
 ---
 name: creation-intent-gate
-description: Apply the C09-C11 intention-modeling method before creating or materially redefining a durable artifact. Use the full gate for customer-facing, recurring, multi-person, high-maintenance, public, financial, privacy-sensitive, or multi-day products, projects, services, tools, skills, automations, workflows, systems, businesses, content programs, communities, and organizations. Use the lite gate for a new but reversible single-person creation that fits within one day and has no external commitment. Also use when the user asks for Mission/Vision/Values, NDV/MVV, “这件事有多少种长法”, positioning, self/other coherence, convergence, reality collision, or reopens direction after feedback. Do not gate general discussion, research, status reporting, a narrow fix, an implementation task with confirmed intent and scope, or a request that explicitly says “跳过创造意图门” or “skip creation intent gate” merely because people or organizations appear in the context.
+description: Apply Mission, Vision, and Values intention modeling before creating or materially redefining a durable artifact. Use the full gate for customer-facing, recurring, multi-person, high-maintenance, public, financial, privacy-sensitive, or multi-day products, projects, services, tools, skills, automations, workflows, systems, businesses, content programs, communities, and organizations. Use the lite gate for a new but reversible single-person creation that fits within one day and has no external commitment. Also use when the user asks for Mission/Vision/Values, MVV, “这件事有多少种长法”, positioning, self/other coherence, convergence, reality collision, or reopens direction after feedback. Do not gate general discussion, research, status reporting, a narrow fix, an implementation task with confirmed intent and scope, or a request that explicitly says “跳过创造意图门” or “skip creation intent gate” merely because people or organizations appear in the context.
 ---
 
 # 创造意图门
@@ -19,7 +19,7 @@ description: Apply the C09-C11 intention-modeling method before creating or mate
 
 ## 选择运行深度
 
-启动时先以当前 `SKILL.md` 所在目录为根，检查 `references/course-method.md`、`references/convergence.md`、`assets/mvv-decision-template.md` 和 `assets/reality-collision-card.md` 是否可读。任一缺失或不可读时明确报告具体路径；不得静默跳过对应方法，也不得声称已完成完整门。只在用户同意降级后，使用本文件中的最低契约继续。
+启动时先以当前 `SKILL.md` 所在目录为根，检查 `references/method.md`、`references/convergence.md`、`assets/mvv-decision-template.md` 和 `assets/reality-collision-card.md` 是否可读。任一缺失或不可读时明确报告具体路径；不得静默跳过对应方法，也不得声称已完成完整门。只在用户同意降级后，使用本文件中的最低契约继续。
 
 ### 轻量门
 
@@ -120,7 +120,7 @@ Mission 已清楚并由用户确认时明确说“Mission 已锁定”，不要�
 
 ### 6. 设计现实碰撞
 
-应用第十课：
+使用现实碰撞原则：
 
 > 用户价值 = 新体验与旧体验之差 - 替换成本
 
@@ -138,7 +138,7 @@ Mission 已清楚并由用户确认时明确说“Mission 已锁定”，不要�
 
 ### 7. 设计端到端回路
 
-读取 [references/course-method.md](references/course-method.md) 中的第十一课部分。
+读取 [references/method.md](references/method.md) 中的“端到端回路”部分。
 
 标出：输入、确定性处理、Agent 判断、人的质量门、输出、证据、反馈、记忆和下一轮更新。能够脚本化的确定性步骤不要交给大模型。
 
@@ -181,5 +181,5 @@ AI 负责：读取 Context、展开 Vision、研究市场、生成视觉样本�
 
 ## 参考资料
 
-- 需要核对课程原意、八层回路和归因边界时，读取 [references/course-method.md](references/course-method.md)。
+- 需要查看意图建模、现实碰撞和八层回路的完整解释时，读取 [references/method.md](references/method.md)。
 - 需要评分、象限、市场校准和选择规则时，读取 [references/convergence.md](references/convergence.md)。
