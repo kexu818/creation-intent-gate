@@ -1,0 +1,4 @@
+interface:
+  display_name: "创造意图门"
+  short_description: "先定意图、展开未来、收敛取舍，再用最小创造物碰撞现实"
+  default_prompt: "使用 $creation-intent-gate，先从 Mission、Vision、Values 梳理这个创造物，再决定是否进入构建。"
