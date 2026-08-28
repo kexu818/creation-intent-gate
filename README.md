@@ -18,7 +18,7 @@
 在 Codex 中使用 `skill-installer` 安装：
 
 ```text
-$skill-installer install https://github.com/kellanxu/creation-intent-gate/tree/main/skills/creation-intent-gate
+$skill-installer install https://github.com/kexu818/creation-intent-gate/tree/main/skills/creation-intent-gate
 ```
 
 也可以将 [`skills/creation-intent-gate`](skills/creation-intent-gate) 复制到本机的 Skill 目录。
